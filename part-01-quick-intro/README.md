@@ -17,6 +17,7 @@ Select Menu --> File --> New --> Java Project
 ![TDD-01-New-Java-Project.png](images/TDD-01-New-Java-Project.png)
 
 Enter "TriangleTest" as project name
+
 ![DD-02-Create-New-Java-Project](images/TDD-02-Create-New-Java-Project.png)
 
 Eclipse create an src folder for you to add your code
@@ -24,9 +25,11 @@ Eclipse create an src folder for you to add your code
 
 Create a source folder to contain test code.
 Right click on project --> New --> Source Folder
-![TDD-04-Create-Test-Source-Folder.png](images/TDD-04-Create-Test-Source-Folder.png)
+
+![TDD-04-Create-Source-Folder.png](images/TDD-04-Create-Source-Folder.png)
 
 Enter test folder name "test"
+
 ![TDD-05-Create-Test-Source-Folder.png](images/TDD-05-Create-Test-Source-Folder.png)
 
 ### Create Initial Test Code
@@ -38,6 +41,7 @@ Enter Package "example" and Name "TriangleTest"
 ![TDD-07-Create-example-TriangleTest.png](images/TDD-07-Create-example-TriangleTest.png)
 
 Import Junit4 (use defaults and choose OK)
+
 ![TDD-08-Import-JUnit4.png](images/TDD-08-Import-JUnit4.png)
 
 Eclipse JUnit creates skeleton code for TriangleTest
@@ -71,6 +75,7 @@ Select src folder and right click --> New --> Class
 ![TDD-16-Create-Code.png](images/TDD-16-Create-Code.png)
 
 Enter Package "example" and Name "Triangle"
+
 ![TDD-17-Create-example-Triangle.png](images/TDD-17-Create-example-Triangle.png)
 
 Eclipse IDE creates an empty Triangle class
