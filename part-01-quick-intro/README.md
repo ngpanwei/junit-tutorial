@@ -55,47 +55,48 @@ Think of some test cases an express as method names
 ![TDD-12-Think-Of-Some-Test-Cases.png](images/TDD-12-Think-Of-Some-Test-Cases.png)
 
 Run the test again 
-![TDD-13-Run-TestCases-Again.png]/(images/TDD-13-Run-TestCases-Again.png)
+![TDD-13-Run-TestCases-Again.png](images/TDD-13-Run-TestCases-Again.png)
 
 And view the results.
-![TDD-14-Test-Results.png]/(images/TDD-14-Test-Results.png)
-The idea is tp run tests often and fail often and fix.
+![TDD-14-Test-Results.png](images/TDD-14-Test-Results.png)
+
+The idea is to run tests often and fail often and fix quickly.
 
 Write some test code and think of the class API
-![TDD-15-Write-Some-TestCode-And-ThinkOf-API.png]/(images/TDD-15-Write-Some-TestCode-And-ThinkOf-API.png)
+![TDD-15-Write-Some-TestCode-And-ThinkOf-API.png](images/TDD-15-Write-Some-TestCode-And-ThinkOf-API.png)
 
 ### Start to write target code to pass some tests
 First create the class
 Select src folder and right click --> New --> Class
-![TDD-16-Create-Code.png]/(images/TDD-16-Create-Code.png)
+![TDD-16-Create-Code.png](images/TDD-16-Create-Code.png)
 
 Enter Package "example" and Name "Triangle"
-![TDD-17-Create-example-Triangle.png]/(images/TDD-17-Create-example-Triangle.png)
+![TDD-17-Create-example-Triangle.png](images/TDD-17-Create-example-Triangle.png)
 
 Eclipse IDE creates an empty Triangle class
-![TDD-18-Initial-Triangle.png]/(images/TDD-18-Initial-Triangle.png)
+![TDD-18-Initial-Triangle.png](images/TDD-18-Initial-Triangle.png)
 
 Write some code to make sure the system compiles
 ![TDD-19-Write-Some-Code-And-Get-It-Compiled.png](images/TDD-19-Write-Some-Code-And-Get-It-Compiled.png)
 
 Now run the tests again and view the results
-![TDD-20-Run-Tests-Again.png]/(images/TDD-20-Run-Tests-Again.png)
+![TDD-20-Run-Tests-Again.png](images/TDD-20-Run-Tests-Again.png)
 
 Add some code to pass some tests
-![TDD-21-Two-Test-Cases-Passed.png]/(images/TDD-21-Two-Test-Cases-Passed.png)
+![TDD-21-Two-Test-Cases-Passed.png](images/TDD-21-Two-Test-Cases-Passed.png)
 
 Update the test document (comments in the assert statements)
-![TDD-22-Update-Test-Documentation.png]/(images/TDD-22-Update-Test-Documentation.png)
+![TDD-22-Update-Test-Documentation.png](images/TDD-22-Update-Test-Documentation.png)
 
 ### Think of some failing examples and code to pass the tests
 Think of some failing cases: for example sum of two sides less than third side
-![TDD-23-Thnink-Of-A-Failing-Condition.png]/(images/TDD-23-Thnink-Of-A-Failing-Condition.png)
+![TDD-23-Thnink-Of-A-Failing-Condition.png](images/TDD-23-Thnink-Of-A-Failing-Condition.png)
 
 Now write more code to pass the test
 ![TDD-24-Write-Some-Code-To-Pass-Test.png](images/TDD-24-Write-Some-Code-To-Pass-Test.png)
 
 Run tests again and see the results
-![TDD-25-Run-Tests-Again.png]/(images/TDD-25-Run-Tests-Again.png)
+![TDD-25-Run-Tests-Again.png](images/TDD-25-Run-Tests-Again.png)
 
 
 
