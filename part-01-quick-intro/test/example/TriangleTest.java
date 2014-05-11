@@ -29,7 +29,7 @@ import org.junit.Test;
 
 public class TriangleTest {
 	@Test
-	public void aValidTriangleShouldHaveAllPositiveSides() {
+	public void aValidTriangle_ShouldHave_AllPositiveSides() {
 		assertTrue("normal triangle",new Triangle(2,2,3).isValidTriangle()) ;
 	}
 	@Test
