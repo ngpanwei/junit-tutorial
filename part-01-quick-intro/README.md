@@ -8,7 +8,7 @@ This is a quick tutorial to introduce to TDD using Eclipse and JUnit. We assume 
 1. [Write Some Test Code](#write-some-test-code)
 1. [Start to write target code to pass some tests](#start-to-write-target-code-to-pass-some-tests)
 1. [Think of some failing examples and code to pass the tests](#think-of-some-failing-examples-and-code-to-pass-the-tests)
-1. [Make Tests Readable](#make-tests-readable)
+1. [Make tests readable](#make-tests-readable)
 
 The idea of TDD is to close the loop between analysis, coding and testing through rapid cycles. Run tests often, fail often and fix quickly!
 
@@ -104,7 +104,7 @@ Now write more code to pass the test
 Run tests again and see the results
 ![TDD-25-Run-Tests-Again.png](images/TDD-25-Run-Tests-Again.png)
 
-### Make Tests Readable
+### Make tests readable
 
 Refactor code so that test methods are readable and indicate what you are trying to test.
 A possible format is "<XXCondition> Should Have <YY Criteria>"
