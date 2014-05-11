@@ -18,4 +18,13 @@ public class Triangle {
 		}
 		return false ;
 	}
+	
+	public boolean isIsoscelesTriangle() {
+		throw new RuntimeException("Not Implemented") ;
+	}
+	
+	public boolean isEquilateral() {
+		throw new RuntimeException("Not Implemented") ;
+	}
+	
 }

@@ -103,6 +103,17 @@ Now write more code to pass the test
 Run tests again and see the results
 ![TDD-25-Run-Tests-Again.png](images/TDD-25-Run-Tests-Again.png)
 
+### Make Tests Readable
+
+Refactor code so that test methods are readable and indicate what you are trying to test.
+A possible format is "<XXCondition> Should Have <YY Criteria>"
+
+![TDD-26-Make-Test-Code-and-Results-Readable.png](images/TDD-26-Make-Test-Code-and-Results-Readable.png)
+
+Make unimplemented code throw RuntimeException to fail tests
+![TDD-27-Skeletal-Code-Throws-Runtime-Exception.png](images/TDD-27-Skeletal-Code-Throws-Runtime-Exception.png)
+
+
 
 
 
