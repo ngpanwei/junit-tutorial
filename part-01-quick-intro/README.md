@@ -111,7 +111,7 @@ A possible format is "<XXCondition> Should Have <YY Criteria>"
 
 ![TDD-26-Make-Test-Code-and-Results-Readable.png](images/TDD-26-Make-Test-Code-and-Results-Readable.png)
 
-Make unimplemented code throw RuntimeException to fail tests
+Make unimplemented code throws RuntimeException to fail tests in place of fail("Not implemented yet") in the test code
 ![TDD-27-Skeletal-Code-Throws-Runtime-Exception.png](images/TDD-27-Skeletal-Code-Throws-Runtime-Exception.png)
 
 
