@@ -6,7 +6,7 @@ This is a quick tutorial to introduce to TDD using Eclipse and JUnit. We assume 
 ### Create a Java Project
 First creat a Java project for this tutorial.
 Select Menu --> File --> New --> Java Project
-!(images/TDD-01-New-Java-Project.png)
+![TDD-01-New-Java-Project.png](images/TDD-01-New-Java-Project.png)
 
 Enter "TriangleTest" as project name
 !(images/TDD-02-Create-New-Java-Project.png)
