@@ -8,6 +8,7 @@ This is a quick tutorial to introduce to TDD using Eclipse and JUnit. We assume 
 1. [Write Some Test Code](#write-some-test-code)
 1. [Start to write target code to pass some tests](#start-to-write-target-code-to-pass-some-tests)
 1. [Think of some failing examples and code to pass the tests](#think-of-some-failing-examples-and-code-to-pass-the-tests)
+1. [Make Tests Readable](#make-tests-readable)
 
 The idea of TDD is to close the loop between analysis, coding and testing through rapid cycles. Run tests often, fail often and fix quickly!
 
